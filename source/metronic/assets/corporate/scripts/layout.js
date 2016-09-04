@@ -351,7 +351,7 @@ var Layout = function () {
 
         initFixHeaderWithPreHeader: function () {
             jQuery(window).scroll(function() {                
-                if (jQuery(window).scrollTop()>37){
+                if (jQuery(window).scrollTop()>0){
                     jQuery("body").addClass("page-header-fixed");
                 }
                 else {
