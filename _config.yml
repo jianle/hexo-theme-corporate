@@ -1,7 +1,7 @@
 # Header Menu
 menu:
   Home: /
-  Projects: /projects/
+  #Projects: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
