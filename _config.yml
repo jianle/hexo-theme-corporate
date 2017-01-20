@@ -15,7 +15,8 @@ fancybox: true # whether or not to load the fancybox library
 # Integrations
 disqus_shortname: saboloh
 google_analytics:
-swiftype_install_key: 68z1yLrANPKGVdWRxMzD
+swiftype_install_key: BfzEd9hi5iLwB5Qdn3iV
+google_api: AIzaSyCLiGs8uqSbzACaM0oG3wAyKHuDPkzxz_E
 
 # Social
 social:
