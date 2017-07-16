@@ -1,7 +1,6 @@
 # Header Menu
 menu:
   Home: /
-  #Projects: /projects/
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
@@ -15,7 +14,7 @@ fancybox: true # whether or not to load the fancybox library
 # Integrations
 disqus_shortname: saboloh
 google_analytics:
-swiftype_install_key: BfzEd9hi5iLwB5Qdn3iV
+#swiftype_install_key: BfzEd9hi5iLwB5Qdn3iV
 google_api: AIzaSyCLiGs8uqSbzACaM0oG3wAyKHuDPkzxz_E
 
 # Social
