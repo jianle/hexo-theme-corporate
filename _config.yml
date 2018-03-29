@@ -20,11 +20,7 @@ google_api: AIzaSyCLiGs8uqSbzACaM0oG3wAyKHuDPkzxz_E
 # Social
 social:
   github: https://github.com/jianle
-  twitter: 
-  facebook: 
   rss: atom.xml
-  linkedin: 
-  stackoverflow: 
 
 # Miscellaneous
 color_scheme: red   # options: blue, gray, green, orange, red, turquoise,black
